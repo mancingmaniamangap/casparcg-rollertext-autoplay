@@ -1,0 +1,17 @@
+E:\YOI\runner\runner\bin\Debug\runner.exe.config
+E:\YOI\runner\runner\bin\Debug\runner.exe
+E:\YOI\runner\runner\bin\Debug\runner.pdb
+E:\YOI\runner\runner\obj\Debug\runner.frmMain.resources
+E:\YOI\runner\runner\obj\Debug\runner.Properties.Resources.resources
+E:\YOI\runner\runner\obj\Debug\runner.csproj.GenerateResource.Cache
+E:\YOI\runner\runner\obj\Debug\runner.exe
+E:\YOI\runner\runner\obj\Debug\runner.pdb
+E:\YOI\runner\runner\obj\Debug\runner.csprojResolveAssemblyReference.cache
+Z:\MTHW\runner\runner\bin\Debug\runner.exe.config
+Z:\MTHW\runner\runner\bin\Debug\runner.exe
+Z:\MTHW\runner\runner\bin\Debug\runner.pdb
+Z:\MTHW\runner\runner\obj\Debug\runner.frmMain.resources
+Z:\MTHW\runner\runner\obj\Debug\runner.Properties.Resources.resources
+Z:\MTHW\runner\runner\obj\Debug\runner.csproj.GenerateResource.Cache
+Z:\MTHW\runner\runner\obj\Debug\runner.exe
+Z:\MTHW\runner\runner\obj\Debug\runner.pdb
